@@ -1,0 +1,2 @@
+Username (not for points),Examples you were given (0 is perfect) 1,Examples you were given (0 is perfect) 2,Examples you were given (0 is perfect) 3,"New example, reachable (0 is perfect) 4","New example, reachable (0 is perfect) 5",Unreachable: exit from source but no entry to dest.,Unreachable: no exit from source,bribe.cpp,edge.cpp,first_neighbor.cpp,name.cpp,next_neighbor.cpp,num_nodes.cpp,Bytes definitely lost (memory leak) (0 is perfect),"Username accurate (0 good, 1 bad)"
+tgfnzb,121,132,50,0,0,0,0,pass,pass,pass,pass,pass,pass,0,0
